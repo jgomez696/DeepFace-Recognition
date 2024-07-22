@@ -10,8 +10,6 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-Library-skyblue?logo=scikit-learn&logoColor=white)](https://github.com/scikit-learn/scikit-learn)
 [![deepface](https://img.shields.io/badge/deepface-Library-blue?logo=deepface&logoColor=white)](https://github.com/serengil/deepface)
 
-
-
 ---
 # DeepFace Recognition
 
